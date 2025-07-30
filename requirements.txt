@@ -1,3 +1,4 @@
+annotated-types==0.7.0
 anyio==4.9.0
 anywidget==0.9.16
 appdirs==1.4.4
@@ -24,6 +25,7 @@ et-xmlfile==1.1.0
 exceptiongroup==1.2.2
 executing==2.2.0
 faicons==0.2.2
+fastapi==0.116.1
 filelock==3.17.0
 Flask==3.0.3
 fonttools==4.56.0
@@ -73,6 +75,8 @@ plotly==5.24.1
 prompt_toolkit==3.0.50
 psygnal==0.12.0
 pure_eval==0.2.3
+pydantic==2.11.7
+pydantic_core==2.33.2
 Pygments==2.19.1
 PyJWT==2.10.1
 pyparsing==3.2.1
@@ -81,6 +85,7 @@ pyro-ppl==1.9.1
 python-dateutil==2.9.0.post0
 python-multipart==0.0.20
 pytz==2025.1
+pywin32==310
 PyYAML==6.0.2
 questionary==2.1.0
 requests==2.32.3
@@ -108,6 +113,7 @@ torch==2.3.0
 tqdm==4.67.1
 traitlets==5.14.3
 typeguard==2.13.3
+typing-inspection==0.4.1
 typing_extensions==4.12.2
 tzdata==2025.1
 uc-micro-py==1.0.3
