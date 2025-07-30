@@ -61,7 +61,7 @@ nest-asyncio==1.6.0
 networkx==3.4.2
 numba==0.61.0
 numpy==1.26.4
-openpyxl @ file:///D:/bld/openpyxl_1725460881438/work
+openpyxl==3.1.5
 opt_einsum==3.4.0
 orjson==3.10.15
 packaging==24.2
