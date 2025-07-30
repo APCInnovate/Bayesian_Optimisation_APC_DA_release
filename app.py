@@ -34,18 +34,6 @@ from pathlib import Path
 #################### Set ggplot theme (not started yet) ###################
 
 
-from fastapi import FastAPI
-
-app = FastAPI()  # 👈 Must be at the top level
-
-@app.get("/")
-def read_root():
-    return {"message": "Hello from FastAPI"}
-
-@app.get("/health")
-def health_check():
-    return {"status": "ok"}
-
 #################### Resource Directories #################################
 # If all files included in the www folder no need to modify 
 resource_dir = Path(__file__).parent / "www"
