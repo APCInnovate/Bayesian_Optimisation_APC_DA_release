@@ -33,7 +33,6 @@ from pathlib import Path
  
 #################### Set ggplot theme (not started yet) ###################
 
-
 #################### Resource Directories #################################
 # If all files included in the www folder no need to modify 
 resource_dir = Path(__file__).parent / "www"
