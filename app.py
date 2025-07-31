@@ -1317,4 +1317,3 @@ def server(input, output, session):
 www_dir = Path(__file__).parent / "www"
 app = App(app_ui, server, static_assets = www_dir)
 
-app.run(launch_browser = True)
